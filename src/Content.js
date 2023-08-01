@@ -17,7 +17,7 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 // import services_logo3 from "./assets/images/Services/logo3.png";
 import services_logo4 from "./assets/images/Services/logo4.png";
 
-import project1 from "./assets/images/projects/img1.png";
+// import project1 from "./assets/images/projects/img1.png";
 import project2 from "./assets/images/projects/img2.png";
 import project3 from "./assets/images/projects/img3.png";
 import project4 from "./assets/images/projects/img4.png";
@@ -260,10 +260,6 @@ export const content = {
     subtitle: "MY CREATION",
     image: person_project,
     project_content: [
-      {
-        title: "HooBank - Payment Gateway",
-        image: project1,
-      },
       {
         title: "Gym Website",
         image: project2,
